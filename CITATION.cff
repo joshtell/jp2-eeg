@@ -1,0 +1,21 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: JP2-EEG
+message: >-
+  A compression codec and corresponding browser (in
+  development) for EEG data recorded in OpenBCI GUI.
+type: software
+authors:
+  - given-names: Joshua Tellez
+    email: joshtell@nmsu.edu
+    affiliation: New Mexico State University
+identifiers:
+  - type: url
+    value: 'https://repository.arizona.edu/handle/10150/666964'
+    description: >-
+      (2022) International Telemetering Conference
+      Proceedings, 57
+repository-code: 'https://github.com/joshtell/jp2-eeg'
+license: MIT
