@@ -1,5 +1,7 @@
 # This CITATION.cff file was generated with cffinit.
 # Visit https://bit.ly/cffinit to generate yours today!
+# Insert \usepackage{hyperref} to enable bibtex citation
+#  in your LaTeX document.
 
 cff-version: 1.2.0
 title: JP2-EEG
